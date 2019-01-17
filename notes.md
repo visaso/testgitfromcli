@@ -20,4 +20,16 @@
   234  git push origin master
   235  git push -u origin master
   236  git remote -v
+  237  vi notes.md
+  238  history
+  239  cat notes.md
+  240  vi notes.md
+  241  git commit -u -m "Created notes.md"
+  242  git commit -a -m "Created notes.md"
+  243  git commit -A -m "Created notes.md"
+  244  git commit --all -m "Created notes.md"
+  245  git add notes.md
+  246  git commit -u -m "Created notes.md"
+  247  git push
+  248  history
 
